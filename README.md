@@ -34,7 +34,7 @@
  
 - **CERTIFICATE OF COMPLETION _"Excel for Beginners"_**
 
-[CERTIFICATE](/Image/Param.pdf)
+![CERTIFICATE](/Image/Param.pdf)
 
 ## Summary
 I am Paramveer Singh Matharoo, a dedicated and enthusiastic B.Tech CSE student from Ludhiana. My educational journey has provided me with a solid foundation in computer science and engineering principles. I have successfully completed HTML coursework and practical projects, and I am ready to advance my skills in CSS to create visually appealing web pages.
