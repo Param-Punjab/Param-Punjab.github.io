@@ -20,7 +20,7 @@
 
 ## Skills
 - **TYPING SILVER CERTIFICATE by [RATATYPE](https://www.ratatype.com/):** 72 WPM
-![TYPING SILVER CERTIFICATE](/Image/ratatype.pdf)
+![TYPING SILVER CERTIFICATE](/Image/ratatype.png)
 - **Web Development:**
   - HTML: Completed comprehensive coursework and practical projects
   - CSS: Prepared and eager to delve into styling and layout techniques
@@ -34,7 +34,7 @@
  
 - **CERTIFICATE OF COMPLETION _"Excel for Beginners"_**
 
-![CERTIFICATE](/Image/Param.pdf)
+![CERTIFICATE](/Image/Param.png)
 
 ## Summary
 I am Paramveer Singh Matharoo, a dedicated and enthusiastic B.Tech CSE student from Ludhiana. My educational journey has provided me with a solid foundation in computer science and engineering principles. I have successfully completed HTML coursework and practical projects, and I am ready to advance my skills in CSS to create visually appealing web pages.
