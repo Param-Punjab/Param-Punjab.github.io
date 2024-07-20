@@ -5,7 +5,7 @@
 - **Location:** Ludhiana, Arrora Palace
 - **Education:** B.Tech in Computer Science and Engineering (CSE)
 
-![Error 404](/Image/photo_2024-07-12_20-53-03.png)
+![Error 404](/Image/Param_Image.png)
 
 ## Class 12th  Marks Sheet
 
