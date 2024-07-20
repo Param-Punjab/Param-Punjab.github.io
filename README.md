@@ -19,7 +19,8 @@
 
 
 ## Skills
-- **Typing Speed:** 60 wpm
+- **Typing SILVER CERTIFICATE by [RATATYPE](https://www.ratatype.com/):** 72 WPM
+![TYPING SILVER CERTIFICATE](Image/ratatype.pdf)
 - **Web Development:**
   - HTML: Completed comprehensive coursework and practical projects
   - CSS: Prepared and eager to delve into styling and layout techniques
@@ -31,7 +32,7 @@
   - C: Basic understanding of syntax, control structures, and fundamental programming concepts
   - Python: Basic knowledge including data types, control structures, and basic scripting
  
--**CERTIFICATE OF COMPLETION _"Excel for Beginners"_**
+- **CERTIFICATE OF COMPLETION _"Excel for Beginners"_**
 
 [CERTIFICATE](Image/Param.pdf)
 
