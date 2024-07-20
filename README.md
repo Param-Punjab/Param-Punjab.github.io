@@ -32,6 +32,7 @@
   - Python: Basic knowledge including data types, control structures, and basic scripting
  
 -**CERTIFICATE OF COMPLETION _"Excel for Beginners"_**
+
 ![CERTIFICATE](Image/Paramveer Singh Matharoo.pdf)
 
 ## Summary
