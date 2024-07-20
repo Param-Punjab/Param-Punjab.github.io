@@ -19,7 +19,7 @@
 
 
 ## Skills
-- **TYPING SILVER CERTIFICATE by [RATATYPE](https://www.ratatype.com/):** 72 WPM
+- **_TYPING SILVER CERTIFICATE_ by [RATATYPE](https://www.ratatype.com/):** 72 WPM
 ![TYPING SILVER CERTIFICATE](/Image/ratatype.png)
 - **Web Development:**
   - HTML: Completed comprehensive coursework and practical projects
