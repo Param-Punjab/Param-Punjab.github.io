@@ -1,11 +1,11 @@
 # Profile: Paramveer Singh Matharoo
 
+![Error 404](/Image/Param_Image.png)
+
 ## Personal Information
 - **Name:** Paramveer Singh Matharoo
 - **Location:** Ludhiana, Arrora Palace
 - **Education:** B.Tech in Computer Science and Engineering (CSE)
-
-![Error 404](/Image/Param_Image.png)
 
 ## Class 12th  Marks Sheet
 
