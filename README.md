@@ -42,3 +42,7 @@ With a typing speed of 60 words per minute, I am efficient and productive in my 
 In addition to my web development skills, I have a basic understanding of programming languages such as C and Python. My familiarity with C includes grasping essential programming concepts and syntax, while my knowledge of Python covers fundamental scripting and data manipulation.
 
 I am eager to continue expanding my skills and knowledge in the field of computer science and engineering. My passion for technology and commitment to learning drive me to excel in my studies and future endeavors.
+
+### Temp
+
+[Syllabus Sem 4](/instant/Syllabus_Sem4_Scheme_2024.pdf)
