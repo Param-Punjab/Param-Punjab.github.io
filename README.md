@@ -46,3 +46,4 @@ I am eager to continue expanding my skills and knowledge in the field of compute
 ### Temp
 
 [Syllabus Sem 4](/instant/Syllabus_Sem4_Scheme_2024.pdf)
+[Syllabus Sem 5](https://docs.google.com/document/d/1-NQjN3fG4CdwIkjKWwL1gepUx-hRvbI4/)
