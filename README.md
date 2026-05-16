@@ -45,5 +45,5 @@ I am eager to continue expanding my skills and knowledge in the field of compute
 
 ### Temp
 
-[Syllabus Sem 4](https://www.google.com/search?q=cse+gndec+sem+4+syllabus&sxsrf=ANbL-n4875_sjiNRYOoQGgVdZ7gG7uBLCA%3A1778136546422)
+[Syllabus Sem 4](/instant/4th-sem.pdf)
 [Syllabus Sem 5](https://docs.google.com/document/d/1-NQjN3fG4CdwIkjKWwL1gepUx-hRvbI4/)
