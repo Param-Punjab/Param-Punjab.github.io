@@ -49,9 +49,7 @@ I'm building my path outside the standard placement track — through open-sourc
 
 <br>
 
-### Skills
-
-<div align="center">
+<div align="center" markdown="1">
 
 ![C++](https://img.shields.io/badge/-C++-000000?style=flat-square&logo=c%2B%2B&logoColor=white)
 ![C](https://img.shields.io/badge/-C-000000?style=flat-square&logo=c&logoColor=white)
