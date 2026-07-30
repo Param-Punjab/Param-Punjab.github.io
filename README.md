@@ -54,11 +54,17 @@ I'm building my path outside the standard placement track — through open-sourc
 <div align="center">
 
 ![C++](https://img.shields.io/badge/-C++-000000?style=flat-square&logo=c%2B%2B&logoColor=white)
+
 ![C](https://img.shields.io/badge/-C-000000?style=flat-square&logo=c&logoColor=white)
+
 ![Python](https://img.shields.io/badge/-Python-000000?style=flat-square&logo=python&logoColor=white)
+
 ![Linux](https://img.shields.io/badge/-Linux-000000?style=flat-square&logo=linux&logoColor=white)
+
 ![Neovim](https://img.shields.io/badge/-Neovim-000000?style=flat-square&logo=neovim&logoColor=white)
+
 ![Git](https://img.shields.io/badge/-Git-000000?style=flat-square&logo=git&logoColor=white)
+
 ![Arch Linux](https://img.shields.io/badge/-Arch%20Linux-000000?style=flat-square&logo=archlinux&logoColor=white)
 
 </div>
@@ -72,18 +78,6 @@ I'm building my path outside the standard placement track — through open-sourc
 <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=param-punjab&show_icons=true&hide_border=true&theme=default&icon_color=333333&text_color=333333&title_color=333333" width="48%" />
 <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=param-punjab&layout=compact&hide_border=true&theme=default&text_color=333333&title_color=333333" width="48%" />
 
-</div>
-
-<br>
-
-<div align="center">
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/param-punjab/param-punjab.github.io/output/github-snake-dark.svg" />
-  <img alt="contribution snake" src="https://raw.githubusercontent.com/param-punjab/param-punjab.github.io/output/github-snake.svg" width="90%" />
-</picture>
-
-</div>
 
 <br>
 
