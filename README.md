@@ -9,7 +9,7 @@
 <br>
 
 <a href="https://codeforces.com/profile/matharoo">Codeforces</a> ·
-<a href="mailto:your-email@mathrooparam@gmail.com">Email</a> ·
+<a href="mailto:mathrooparam@gmail.com">Email</a> ·
 <a href="/instant/resume.pdf">Resume</a> ·
 <a href="https://github.com/param-punjab">GitHub</a>
 
@@ -41,7 +41,7 @@ I'm building my path outside the standard placement track — through open-sourc
 </td>
 <td width="50%" valign="top">
 <h4>Web Crawler</h4>
-<p>A Flask-based tool for detecting typosquatted/phishing domains, combining parallel DNS resolution with crt.sh, URLScan.io, and OpenPhish.</p>
+<p>A Python-based web crawler for systematically traversing and extracting data from target domains.</p>
 <a href="https://github.com/param-punjab/web-crawler">View Repository →</a>
 </td>
 </tr>
@@ -72,12 +72,14 @@ I'm building my path outside the standard placement track — through open-sourc
 <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=param-punjab&show_icons=true&hide_border=true&theme=default&icon_color=333333&text_color=333333&title_color=333333" width="48%" />
 <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=param-punjab&layout=compact&hide_border=true&theme=default&text_color=333333&title_color=333333" width="48%" />
 
+</div>
 
 <br>
-
 
 ---
 
 <div align="center">
+
 <sub>Ludhiana, Punjab, India</sub>
+
 </div>
