@@ -69,8 +69,8 @@ I'm building my path outside the standard placement track — through open-sourc
 
 <div align="center">
 
-<img src="https://github-readme-stats-sigma-five.vercel.app/api?username=param-punjab&show_icons=true&hide_border=true&theme=default&icon_color=333333&text_color=333333&title_color=333333" width="48%" />
-<img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=param-punjab&layout=compact&hide_border=true&theme=default&text_color=333333&title_color=333333" width="48%" />
+<img src="https://github-readme-stats-sigma-five.vercel.app/api?username=parammatharoo&show_icons=true&hide_border=true&theme=default&icon_color=333333&text_color=333333&title_color=333333" width="48%" />
+<img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=parammatharoo&layout=compact&hide_border=true&theme=default&text_color=333333&title_color=333333" width="48%" />
 
 </div>
 
