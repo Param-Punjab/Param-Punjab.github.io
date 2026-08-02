@@ -11,7 +11,7 @@
 <a href="https://codeforces.com/profile/matharoo">Codeforces</a> ·
 <a href="mailto:mathrooparam@gmail.com">Email</a> ·
 <a href="/instant/resume.pdf">Resume</a> ·
-<a href="https://github.com/param-punjab">GitHub</a>
+<a href="https://github.com/parammatharoo">GitHub</a>
 
 </div>
 
