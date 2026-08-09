@@ -83,12 +83,12 @@ I'm building my path outside the standard placement track — through open-sourc
 
 <sub>Ludhiana, Punjab, India</sub>
 
-### Extra
-
 </div>
+
+### Extra
 
 <dev align="center">
 
-<sub><a href="./instant/syllabus_sem_5.pdf">Sem 5</a></sub>
+<a href="./instant/syllabus_sem_5.pdf">Sem 5</a>
 
 </dev>
