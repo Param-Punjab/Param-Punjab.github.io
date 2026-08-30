@@ -66,13 +66,6 @@ I'm building my path outside the standard placement track — through open-sourc
 
 <br>
 
----
-
-<div align="center">
-
-<sub>Ludhiana, Punjab, India</sub>
-
-</div>
 
 ### Extra
 
@@ -81,3 +74,14 @@ I'm building my path outside the standard placement track — through open-sourc
 <a href="./instant/syllabus_sem_5.pdf">Sem 5</a>
 
 </dev>
+
+<br>
+
+
+---
+
+<div align="center">
+
+<sub>Ludhiana, Punjab, India</sub>
+
+</div>
