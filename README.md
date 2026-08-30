@@ -71,7 +71,7 @@ I'm building my path outside the standard placement track — through open-sourc
 
 <dev align="center">
 
-<a href="./instant/syllabus_sem_5.pdf">Sem 5</a>
+<a href="./instant/syllabus.pdf">sem</a>
 
 </dev>
 
